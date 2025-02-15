@@ -1,2 +1,1 @@
-# first_database
-My first SQL Database created on 04/03/2024 is a database for a kindergarten.
+This database served as the final project for IT-214 Database Fundamentals. The goal was to create a relational database that stores information about students, caretakers, teachers, and classes.
