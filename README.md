@@ -4,4 +4,4 @@ This folder contains the following files:
 
 RDB_Project_PDF.pdf - The final PDF submission for the project that shows the ERD model and creation of the RDB, tables, insertion of data, and querying of data 
 
-RDB_Project_Code.sql - The SQL Code used to create the RDB, Tables, insert the data, query data 
+RDB_Project_Code.sql - The SQL Code used to create the RDB and tables, insert the data, and query the data 
